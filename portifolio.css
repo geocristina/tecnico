@@ -1,0 +1,38 @@
+body {
+    padding: 10px;
+    margin: 5pc 20pc 5pc 20pc;
+    border: 1px solid antiquewhite;
+    border-radius: 30px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/014/610/085/large_2x/rough-gradient-background-black-pink-white-template-design-free-photo.jpg");
+    color: antiquewhite;
+    font-family: "Oxanium";
+}
+
+.topo {
+    margin: 10px 10pc 10px 15pc;
+    display: flex;
+    gap: 20px;
+    text-align: center;
+}
+
+.topo img {
+    max-width: 1000px;
+    height: auto;
+    border-radius: 20%;
+}
+
+.topo h1 {
+    align-self: center;
+    font-family: "Press Start 2P";
+    font-size: 22px;
+}
+
+h2 {
+    font-family: "Press Start 2P";
+    font-size: 18px;
+}
+
+.skills, .mim {
+    padding-left: 20px;
+    font-size: 18px;
+}
